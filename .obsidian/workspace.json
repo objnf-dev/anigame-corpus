@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "7616b48255a67ea3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9732f659e08b9291",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57ff037c36c3f583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HonkaiStarRail/Plot/S1E1/混乱行至深处.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3b875f5bca21a40",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbe908ea4c61a833",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "804a23111bd897eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5155f5831fd91213",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95be26ecc7622a21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f195ea4915009d23",
+    "type": "split",
+    "children": [
+      {
+        "id": "a85673dfcc652809",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ecf14f8b4230cd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HonkaiStarRail/Plot/S1E1/混乱行至深处.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aab64aa3dd7ac350",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HonkaiStarRail/Plot/S1E1/混乱行至深处.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e8ef47628fe0389",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a70bad7d650da1c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HonkaiStarRail/Plot/S1E1/混乱行至深处.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "57ff037c36c3f583",
+  "lastOpenFiles": [
+    "HonkaiStarRail/Plot/S1E1/混乱行至深处.md",
+    "HonkaiStarRail/Plot/S1E1",
+    "HonkaiStarRail/Plot",
+    "Welcome.md"
+  ]
+}
