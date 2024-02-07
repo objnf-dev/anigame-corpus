@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9732f659e08b9291",
+        "id": "33d3fd15a788ca76",
         "type": "tabs",
         "children": [
           {
-            "id": "57ff037c36c3f583",
+            "id": "1b4586603a66da16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HonkaiStarRail/Plot/S1E1/混乱行至深处.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HonkaiStarRail/Plot/S1E1/混乱行至深处.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HonkaiStarRail/Plot/S1E1/混乱行至深处.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HonkaiStarRail/Plot/S1E1/混乱行至深处.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "57ff037c36c3f583",
+  "active": "1b4586603a66da16",
   "lastOpenFiles": [
+    "HonkaiStarRail/Plot/S4E1/丑时三刻的敲门声.md",
+    "HonkaiStarRail/Plot/S4E1/长日入夜行.md",
     "HonkaiStarRail/Plot/S1E1/混乱行至深处.md",
     "HonkaiStarRail/Plot/S1E1",
     "HonkaiStarRail/Plot",
