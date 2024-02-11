@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "120f115e40062091",
+        "id": "e122043719079046",
         "type": "tabs",
         "children": [
           {
-            "id": "fc8e5c70c499308d",
+            "id": "9ba0807b44d59de1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,19 +138,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fc8e5c70c499308d",
+  "active": "9ba0807b44d59de1",
   "lastOpenFiles": [
+    "HonkaiStarRail/Plot/2.0/05-黄金年代的故事.md",
+    "HonkaiStarRail/Plot/2.0/04-无眠之夜.md",
+    "HonkaiStarRail/Plot/2.0/03-那些逐梦的年轻人.md",
+    "HonkaiStarRail/Plot/2.0/02-丑时三刻的敲门声.md",
+    "HonkaiStarRail/Plot/2.0/01-长日入夜行.md",
     "HonkaiStarRail/Text/2.0/《梦境旅游指南-交通篇》.md",
     "HonkaiStarRail/Text/2.0",
     "HonkaiStarRail/Text",
     "HonkaiStarRail/未命名.md",
     "HonkaiStarRail/Supply/2.0/三首小诗.md",
     "HonkaiStarRail/Supply/2.0/《喧哗与骚动》简介.md",
-    "HonkaiStarRail/Plot/2.0/丑时三刻的敲门声.md",
     "HonkaiStarRail/Supply/2.0",
     "HonkaiStarRail/Supply",
-    "HonkaiStarRail/Plot/2.0/那些逐梦的年轻人.md",
-    "HonkaiStarRail/Plot/2.0/长日入夜行.md",
     "HonkaiStarRail/Plot/1.0/混乱行至深处.md",
     "HonkaiStarRail/Plot/1.0",
     "HonkaiStarRail/Plot",
