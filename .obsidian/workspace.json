@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e122043719079046",
+        "id": "5589c9a6a7ecdc2e",
         "type": "tabs",
         "children": [
           {
-            "id": "9ba0807b44d59de1",
+            "id": "f7e37ec70e61b2cc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,17 +138,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9ba0807b44d59de1",
+  "active": "f7e37ec70e61b2cc",
   "lastOpenFiles": [
+    "HonkaiStarRail/World/Sects/派系.md",
+    "HonkaiStarRail/World/Sects/无名客-开拓.md",
+    "HonkaiStarRail/World/Sects/仙舟联盟-巡猎.md",
+    "HonkaiStarRail/World/Sects/星穹列车-开拓.md",
+    "HonkaiStarRail/World/Sects/星核猎手-？？？.md",
+    "HonkaiStarRail/World/Gods/星神.md",
+    "HonkaiStarRail/World/Gods",
+    "HonkaiStarRail/World/Sects/未命名",
+    "HonkaiStarRail/未命名.md",
+    "HonkaiStarRail/World/Sects",
+    "HonkaiStarRail/World",
+    "HonkaiStarRail/Text/2.0/《忆域迷因受害者名单片段》.md",
+    "HonkaiStarRail/Text/2.0/《梦境旅游指南-交通篇》.md",
     "HonkaiStarRail/Plot/2.0/05-黄金年代的故事.md",
     "HonkaiStarRail/Plot/2.0/04-无眠之夜.md",
     "HonkaiStarRail/Plot/2.0/03-那些逐梦的年轻人.md",
     "HonkaiStarRail/Plot/2.0/02-丑时三刻的敲门声.md",
     "HonkaiStarRail/Plot/2.0/01-长日入夜行.md",
-    "HonkaiStarRail/Text/2.0/《梦境旅游指南-交通篇》.md",
     "HonkaiStarRail/Text/2.0",
     "HonkaiStarRail/Text",
-    "HonkaiStarRail/未命名.md",
     "HonkaiStarRail/Supply/2.0/三首小诗.md",
     "HonkaiStarRail/Supply/2.0/《喧哗与骚动》简介.md",
     "HonkaiStarRail/Supply/2.0",
