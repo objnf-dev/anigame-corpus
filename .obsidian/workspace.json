@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5589c9a6a7ecdc2e",
+        "id": "f3cdaf1a7f4ecf89",
         "type": "tabs",
         "children": [
           {
-            "id": "f7e37ec70e61b2cc",
+            "id": "eb390c808c738edc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f7e37ec70e61b2cc",
+  "active": "804a23111bd897eb",
   "lastOpenFiles": [
+    "HonkaiStarRail/Text/2.0/Icons.md",
+    "HonkaiStarRail/Text/2.0/Books",
+    "HonkaiStarRail/Text/2.0/Books/金槌府邸安全规范.md",
+    "HonkaiStarRail/Text/2.0/Books/案情简述•其一.md",
+    "HonkaiStarRail/Text/2.0/Books/「钟表匠」的谏言.md",
+    "HonkaiStarRail/Text/2.0/Books/《梦境旅游指南-购物篇》.md",
+    "HonkaiStarRail/Text/2.0/Books/《梦境旅游指南-交通篇》.md",
+    "HonkaiStarRail/Text/2.0/Books/《梦境旅游指南-游玩篇》.md",
+    "HonkaiStarRail/Text/2.0/Books/《忆域迷因受害者名单片段》.md",
+    "HonkaiStarRail/Text/2.0/Books/关于？号扭蛋机的研究.md",
+    "HonkaiStarRail/Text/2.0/Books/盛会之星收藏卡.md",
+    "HonkaiStarRail/Plot/2.0/03-那些逐梦的年轻人.md",
+    "HonkaiStarRail/Plot/2.0/04-无眠之夜.md",
+    "HonkaiStarRail/Plot/2.0/05-黄金年代的故事.md",
     "HonkaiStarRail/World/Sects/派系.md",
     "HonkaiStarRail/World/Sects/无名客-开拓.md",
     "HonkaiStarRail/World/Sects/仙舟联盟-巡猎.md",
@@ -151,11 +165,6 @@
     "HonkaiStarRail/未命名.md",
     "HonkaiStarRail/World/Sects",
     "HonkaiStarRail/World",
-    "HonkaiStarRail/Text/2.0/《忆域迷因受害者名单片段》.md",
-    "HonkaiStarRail/Text/2.0/《梦境旅游指南-交通篇》.md",
-    "HonkaiStarRail/Plot/2.0/05-黄金年代的故事.md",
-    "HonkaiStarRail/Plot/2.0/04-无眠之夜.md",
-    "HonkaiStarRail/Plot/2.0/03-那些逐梦的年轻人.md",
     "HonkaiStarRail/Plot/2.0/02-丑时三刻的敲门声.md",
     "HonkaiStarRail/Plot/2.0/01-长日入夜行.md",
     "HonkaiStarRail/Text/2.0",
@@ -165,8 +174,6 @@
     "HonkaiStarRail/Supply/2.0",
     "HonkaiStarRail/Supply",
     "HonkaiStarRail/Plot/1.0/混乱行至深处.md",
-    "HonkaiStarRail/Plot/1.0",
-    "HonkaiStarRail/Plot",
-    "Welcome.md"
+    "HonkaiStarRail/Plot/1.0"
   ]
 }
