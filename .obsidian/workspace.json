@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3cdaf1a7f4ecf89",
+        "id": "0c75516e00071306",
         "type": "tabs",
         "children": [
           {
-            "id": "eb390c808c738edc",
+            "id": "267f0cfa700a4518",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "804a23111bd897eb",
+  "active": "267f0cfa700a4518",
   "lastOpenFiles": [
+    "HonkaiStarRail/Text/2.0/Books/案情简述•其二.md",
+    "HonkaiStarRail/Text/2.0/Books/《镍币影院特别放映：惊魂之夜》.md",
+    "HonkaiStarRail/Text/2.0/Books/声乐之星的绝唱•「纯美之歌」音乐会.md",
     "HonkaiStarRail/Text/2.0/Icons.md",
     "HonkaiStarRail/Text/2.0/Books",
     "HonkaiStarRail/Text/2.0/Books/金槌府邸安全规范.md",
@@ -170,10 +173,8 @@
     "HonkaiStarRail/Text/2.0",
     "HonkaiStarRail/Text",
     "HonkaiStarRail/Supply/2.0/三首小诗.md",
-    "HonkaiStarRail/Supply/2.0/《喧哗与骚动》简介.md",
     "HonkaiStarRail/Supply/2.0",
     "HonkaiStarRail/Supply",
-    "HonkaiStarRail/Plot/1.0/混乱行至深处.md",
     "HonkaiStarRail/Plot/1.0"
   ]
 }
